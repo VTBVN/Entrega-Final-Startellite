@@ -8,5 +8,3 @@
 | 4. Apresentação final | — | Implementado |
 | 5. Handoff | `HANDOFF.md` | Limitações, bugs/riscos, serviços e próximos passos |
 
-## Reunião e banca própria do cliente
-A instrução fornecida situa a reunião final em 27/10 e informa que as seis capacitações já ocorreram. Isso é contexto recebido, sem verificação de presença nesta entrega. A banca própria do cliente deve ocorrer uma semana antes ou depois da reunião final, conforme disponibilidade. Vestimenta: casual profissional.
