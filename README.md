@@ -1,6 +1,6 @@
 # Entrega Final Startellite
 
-Entrega de encerramento do Insper Code: produto, documentação e legado. A apresentação final (item 5) foi excluída por solicitação. Este repositório reúne documentação; o código executável permanece no [repositório de origem](https://github.com/HenriqueRBomfim/startellite-frontend).
+Entrega de encerramento do Insper Code: produto, documentação e legado. Este repositório reúne documentação; o código executável permanece no [repositório de origem](https://github.com/HenriqueRBomfim/startellite-frontend).
 
 ## Contexto e solução
 A Startellite conecta empresas e profissionais e organiza trabalho em projetos, quadros e Espaçonaves (equipes). A entrega acadêmica concentra-se em tornar equipes apresentáveis publicamente, padronizar a interface e facilitar o uso da plataforma pelo Orbitinho, assistente de texto e voz.
