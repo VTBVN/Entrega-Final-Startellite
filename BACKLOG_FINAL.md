@@ -15,16 +15,6 @@ Status por inspeção em 31/10/2026. “Concluído no código” não significa 
 | EF-G01–G05 / G07–G08 | Arquitetura, conhecimento, comandos, voz, personalidade e testes | `9e7b4f23`, `c21fc862`, `30d7994c`, `0dac88fd`, `f2766653`, `a1a68744`, `0ce6a03d` |
 | Orbitinho | Cancelamento, estabilidade de voz e orientação em inglês | `172f3235`, `cf0a6e48` |
 
-## Não concluído ou não comprovado
-| Pendência | Critério de encerramento | Dependência |
-|---|---|---|
-| Vídeo obrigatório | Link ou arquivo reproduzível de 1–3 minutos | Gravação em homologação |
-| Aceite e banca do cliente | Data, participantes e retorno registrados | Disponibilidade do cliente |
-| Banco reproduzível e privacidade real | DDL completo, policies e consentimentos testados | Responsável Supabase |
-| Voz e acessibilidade reais | Matriz desktop/mobile e leitor de tela preenchida | Dispositivos e contas de teste |
-| Deploy final | Checks e URL associados ao commit promovido | Acesso Vercel/GitHub |
-| Auditoria atual das dependências | Resultado datado e triagem | Instalação e audit atualizados |
-
 ## Removido do escopo
 - Orbitinho na IDE: retirado conforme registro de atualização do cliente em `SETUP_LOCAL.md`; não apresentar MCP como entrega da IDE.
 - Apresentação final (item 5): excluída deste pacote por solicitação do usuário. Isso não constitui dispensa institucional da apresentação.

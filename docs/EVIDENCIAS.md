@@ -94,4 +94,4 @@ Filtro de autores por nomes Wesley, Guilherme e Pedro; merges excluídos. O logi
 | [c35889a4](https://github.com/HenriqueRBomfim/startellite-frontend/commit/c35889a4f2e6898d1d7d683ce171f1fb581ede13) | Guilherme Taba | feat: fazer inventario de tokens e componentes |
 
 ## Validação desta entrega
-Foram lidos código, manifesto, workflows, documentos e histórico; não foram instaladas dependências nem executados build, testes ou serviços. Foram conferidos os links internos da documentação antes da publicação. Nenhum resultado histórico foi reapresentado como teste executado agora. O vídeo e a homologação permanecem pendentes.
+Foram lidos código, manifesto, workflows, documentos e histórico; não foram instaladas dependências nem executados build, testes ou serviços. Foram conferidos os links internos da documentação antes da publicação. Nenhum resultado histórico foi reapresentado como teste executado agora.

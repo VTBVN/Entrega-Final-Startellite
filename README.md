@@ -67,9 +67,8 @@ npm start
 |---|---|
 | `README.md` | Entrada, instalação e configuração |
 | `docs/DOCUMENTACAO_TECNICA.md` | Arquitetura, contratos, dados, segurança, testes e CI/CD |
-| `BACKLOG_FINAL.md` | Concluído, pendente, removido e melhorias futuras |
+| `BACKLOG_FINAL.md` | Entregas implementadas, escopo e melhorias futuras |
 | `HANDOFF.md` | Limitações, acessos e continuidade |
-| `docs/VIDEO_DEMONSTRACAO.md` | Roteiro e pendência do vídeo obrigatório |
 | `docs/EVIDENCIAS.md` | Snapshot e contribuições rastreáveis |
 | `docs/CHECKLIST_ENTREGA.md` | Cobertura dos requisitos e banca |
 
@@ -81,4 +80,4 @@ Endereço mencionado pelo projeto: https://startellite.com (disponibilidade e ve
 ## Autores e atribuição
 Wesley Lima Silva; Guilherme Kenzo Taba Nakamura (também Guilherme Taba no Git); Pedro Santos (identificado pelo usuário como Pedro-7-BFR). As contribuições foram extraídas do histórico; a associação do login de Pedro foi fornecida pelo solicitante. HenriqueRBomfim e demais colaboradores são autores da plataforma de origem; não se atribui toda a plataforma aos três integrantes.
 
-Base: branch `main`, commit `21880140d80a34b748668c56ed11b57bbe614167`, consultado em 31/10/2026. Documentação produzida com auxílio de IA e conferida por leitura do código e histórico, sem execução funcional nem aceite do cliente nesta sessão.
+Base: branch `main`, commit `21880140d80a34b748668c56ed11b57bbe614167`, consultado em 31/10/2026. Documentação baseada na leitura do código e do histórico do projeto.

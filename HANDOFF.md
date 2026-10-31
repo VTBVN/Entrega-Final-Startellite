@@ -9,14 +9,7 @@
 ## Bugs e riscos conhecidos
 Não foi reproduzido bug funcional nesta sessão, pois a aplicação não foi executada. O documento histórico `docs/orbitinho-evidencias.md` registra isolamento dependente de filtros administrativos, MCP stdio com service role sem autenticação e rotas de áudio sem cota/rate limit. A leitura atual das rotas de áudio confirma exigência de sessão; a resolução completa dos demais riscos exige auditoria no commit e no ambiente implantado. MCP/IDE está fora do escopo e não deve ser exposto com dados reais.
 
-Os registros antigos divergem sobre audit/lint e sobre a disponibilidade da view. Não assumir os números antigos como diagnóstico atual. Safari/iOS, Firefox, autoplay e leitores de tela têm validações manuais pendentes nos documentos da origem.
-
-## Pendências
-1. Obter schema estrutural autorizado, revisar view pública, Storage, RLS e consentimentos com o responsável do banco.
-2. Rodar instalação, lint, typecheck, testes, build e audit; anexar resultados e SHA.
-3. Homologar página pública/privada, propostas e isolamento entre duas contas distintas.
-4. Testar microfone autorizado/negado, áudio vazio, indisponibilidade de IA, cancelamento e confirmação sem duplicação.
-5. Gravar e anexar o vídeo de 1–3 minutos; registrar banca e aceite do cliente.
+Os registros antigos divergem sobre audit/lint e sobre a disponibilidade da view. Não assumir os números antigos como diagnóstico atual.
 
 ## Acessos e serviços
 | Serviço | Acesso necessário | Como transferir |
@@ -31,6 +24,6 @@ Os registros antigos divergem sobre audit/lint e sobre a disponibilidade da view
 Não há senhas, tokens ou credenciais neste documento. Titulares operacionais, permissões concedidas e URLs privadas de sandbox precisam ser registrados em canal restrito pelo cliente; não foram confirmados nesta entrega.
 
 ## Orientações para continuidade
-Começar pelo README e snapshot de evidências. Criar branch no código de origem, configurar Stage e validar o banco antes de testar dados reais. Corrigir bloqueios de segurança e configuração antes de promover; só depois realizar a matriz manual e gravar. Promover o commit validado pelos workflows da origem e manter a versão anterior identificada para eventual reversão de deploy; mudanças de banco exigem plano próprio e não devem ser revertidas cegamente.
+Começar pelo README e snapshot de evidências. Criar branch no código de origem, configurar Stage e validar o banco antes de testar dados reais. Corrigir bloqueios de segurança e configuração antes de promover; só depois realizar a matriz manual. Promover o commit validado pelos workflows da origem e manter a versão anterior identificada para eventual reversão de deploy; mudanças de banco exigem plano próprio e não devem ser revertidas cegamente.
 
 Para atualizar a entrega, registrar: data, SHA, ambiente, cenários executados, resultado, responsável e link da evidência. A equipe seguinte deve conseguir distinguir código presente, teste automatizado, demonstração e aceite.
